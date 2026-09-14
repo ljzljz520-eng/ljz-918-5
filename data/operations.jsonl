@@ -1,0 +1,2 @@
+{"time": "2026-09-14 15:39:09", "operator": "admin", "service": "scheduled-broadcast", "action": "start", "result": "success", "code": null, "message": "「定时播报」启动成功（PID=85829，端口 9101）"}
+{"time": "2026-09-14 15:39:15", "operator": "admin", "service": "scheduled-broadcast", "action": "stop", "result": "failed", "code": "ERR_STOP_FAILED", "message": "「定时播报」停止失败：PID=85829 仍存活，可能需要管理员手动结束"}

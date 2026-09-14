@@ -1,0 +1,17 @@
+{
+  "listen_host": "127.0.0.1",
+  "listen_port": 8080,
+  "scheduled-broadcast": {
+    "schedule_points": 8,
+    "patrol_seconds": 15
+  },
+  "audio-sync": {
+    "terminals": 5,
+    "audio_files": 6,
+    "interval_seconds": 12
+  },
+  "device-heartbeat": {
+    "devices": 8,
+    "period_seconds": 8
+  }
+}
